@@ -5,7 +5,7 @@
     <title>Surpresa!</title>
     <script>
       // Link seguro para redirecionamento
-      var link = "https://www.roblox.com/share?code=e234eb6fc27cf14b8cd59cf48488b7a8&type=Server";
+      var link = "https://www.roblox.com/share?code=be3a653baf20df4892c97345ae75c8e9&type=Server)";
 
       // Redireciona automaticamente
       window.location.href = link;
@@ -18,6 +18,6 @@
     <script>
       // Link de fallback
       document.getElementById("redirect").href = "https://www.roblox.com/share?code=e234eb6fc27cf14b8cd59cf48488b7a8&type=Server";
-    </script>
+    </script
   </body>
 </html>
